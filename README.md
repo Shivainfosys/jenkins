@@ -1,5 +1,3 @@
-# jenkins
-My first repository on GitHub."
 pipeline {
     agent any
      tools {nodejs "14.15.5"}s
